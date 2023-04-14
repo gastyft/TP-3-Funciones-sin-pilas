@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1490112217 source:c:\users\usuario\desktop\prog 1\librerias\pila.c
+	"pila.h"
+
+1490112217 c:\users\usuario\desktop\prog 1\librerias\pila.h
+	<stdio.h>
+	<malloc.h>
+
+1681509001 source:c:\users\usuario\desktop\prog 1\ejercicio1\main.c
+	<stdio.h>
+	<stdlib.h>
+	"../Librerias/pila.h"
+	<conio.h>
+	<time.h>
+
